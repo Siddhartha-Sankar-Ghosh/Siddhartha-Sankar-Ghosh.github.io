@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dce9ff"/><stop offset="1" stop-color="#a7b9dd"/></linearGradient><linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#263957"/><stop offset="1" stop-color="#111a2d"/></linearGradient></defs>
+  <rect width="500" height="500" fill="url(#bg)"/>
+  <circle cx="250" cy="180" r="95" fill="#e7b18f"/>
+  <path d="M154 176Q143 67 245 64Q356 62 348 177L326 142L309 111Q248 146 183 119L171 165Z" fill="#24202a"/>
+  <path d="M179 166Q190 116 222 116Q272 138 320 110L337 166L327 220Q309 269 250 274Q191 267 173 217Z" fill="#e8b390"/>
+  <path d="M195 176Q215 160 236 176M266 176Q290 159 309 176" stroke="#352c2c" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <rect x="202" y="179" width="45" height="30" rx="9" fill="none" stroke="#202938" stroke-width="7"/><rect x="258" y="179" width="45" height="30" rx="9" fill="none" stroke="#202938" stroke-width="7"/><path d="M247 188H258" stroke="#202938" stroke-width="6"/>
+  <path d="M226 230Q250 245 275 229" fill="none" stroke="#a4564f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M216 260L215 300L250 331L286 300L283 260" fill="#d9a17f"/>
+  <path d="M100 500Q110 350 195 316L250 360L306 316Q393 349 402 500Z" fill="url(#shirt)"/>
+  <path d="M215 318L250 360L286 318L274 500H226Z" fill="#f4f6fb"/>
+  <path d="M230 360L250 386L270 360L259 500H241Z" fill="#3c68b5"/>
+</svg>
